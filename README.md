@@ -54,6 +54,7 @@ lambda s: "".join(set(s))
 print("________________________________________")
 print("4. Mengubah function menggunakan Lambda \n   def d(s): \n \t   return "".join(set(s))")
 print("   Hasil : lambda s: "".join(set(s)))")
+```
 
 * Disini saya sudah rubah ke lambda Kalau di Tugas Latihan tidak ada outputnya, tp disini saya akan berikan contoh untuk output dari source code tersebut Berikut outputnya
 
@@ -162,6 +163,7 @@ while True:
         print("== Pilihan Anda Tidak Tersedia ==")
         print("== Pilihlah Menu Yang Tersedia ==")
         print("<><><><><><><><><><><><><><><><>")
+```
 
 * Pada tugas praktikum saya menggunakan fitur function yang ada di Python. Dan menggunakan media penyimpanan data berupa Dictionary Saya akan menjelaskan dikit mengenai fitur-fitur yang ada dalam program sederhana saya. Ketika program di run pada pertama kali, maka akan muncul tampilan seperti ini :
 
